@@ -2,7 +2,7 @@
 
 Find the raw list here:
 
-https://raw.githubusercontent.com/bhadaway/list-of-acronyms/main/list.txt
+https://raw.githubusercontent.com/webguyio/list-of-acronyms/main/list.txt
 
 ## The Goal?
 
